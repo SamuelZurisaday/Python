@@ -1,0 +1,2 @@
+def es_primario():
+    
